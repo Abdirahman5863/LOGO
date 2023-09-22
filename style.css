@@ -1,0 +1,31 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 20px;
+  align-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: aliceblue;
+  width: 30%;
+  font-family: sans-serif;
+}
+body {
+  background-color: rgb(50, 50, 94);
+  align-items: center;
+}
+h3 {
+  color: blue;
+}
+#log {
+  color: white;
+  background-color: rgb(44, 34, 104);
+  width: 10vw;
+  height:10hv;
+}
+.logoform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
